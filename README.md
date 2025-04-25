@@ -24,7 +24,7 @@ Su flexibilidad lo hace adaptable a las necesidades de distintos negocios, ayuda
   <img src="./dist/img/Readme-04.png" alt="Descripción de la imagen" width="60%">
 </p>
 
-**Consulta la versión preliminar del proyecto aquí:** [https://sistema-de-inventario-y-ventas-online.com](https://alejandrovillegas.net/projects/project-09/index.php)
+**Consulta la versión preliminar del proyecto aquí:** [https://sistema-de-inventario-y-ventas-online.com](https://www.alejandrovillegas.dev/projects/project-09/index.php)
 
 # 📌 Información del Proyecto
 
@@ -36,7 +36,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 03 de diciembre de 2024
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración del Proyecto
 
